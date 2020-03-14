@@ -125,7 +125,15 @@ Placeholder field   {placeholder}       "Use the URL in the form of {hostname}.m
 Bullet Lists
 -------------
 
-The list items in a bullet list can be either all complete sentences or all sentence fragments. Don't mix complete sentences and sentence fragments in a single list. Remember that a complete sentence begins with an upper case letter and ends with a punctuation mark.
+A bulleted list is a grouping of similar things. We can look upon a bulleted list as the body have a category of things. This is the conceptual understanding. At the level of implementation bulleted lists are either going to be parenthetical phrases or words. An example of words would be flavors for ice cream. An example of parenthetical phrases would be short explanations on how to do one part of a medical experiment, for example, cut below the artery left to right, cut above the artery right to left. 
+The rule is as follows: a list of words can be within the main paragraph separated by commas alone,  and a list of parenthetical phrases or nearly complete sentences should be bulleted.  
+
+Writing is not just about efficiency it's about the use of white space. When you create a long list of words you create a lot of white space like a table of contents. It is to be avoided in documentation.
+
+When using a bulleted list of parenthetical phrases, begin every bullet point with a lowercase letter and don't deal with any end of phrase punctuation like a comma or a semicolon.  Close the bulleted list  with a period.  It is in actuality the end of the sentence that began the bulleted list.
+
+When denoting a long list of single words are compound words within a main paragraph, just use commas. 
+
 
 Numbered Lists and Procedures
 -----------------------------
